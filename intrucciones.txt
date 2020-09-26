@@ -1,0 +1,2 @@
+
+Abrir index.html con el navegador
